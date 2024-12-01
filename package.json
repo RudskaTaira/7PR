@@ -1,0 +1,15 @@
+{
+  "name": "7pr",
+  "version": "1.0.0",
+  "description": "This is a simple University Management System implemented in TypeScript. It allows managing students, courses, grades, and other aspects of university operations. The system provides functionalities such as enrolling students, registering for courses, setting grades, updating student statuses, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
